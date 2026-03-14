@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and Editors
+.vscode/
+.idea/
+.qoder/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Machine Learning Models (uncomment if you want to ignore them)
+# *.h5
+# *.pb
+# *.pt
+# *.onnx
+
+# Jupyter Notebook
+.ipynb_checkpoints
